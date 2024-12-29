@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is the place where I upload some of my projects
+
 ![ElekCorps's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElekCorp&show_icons=true&theme=vue-dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElekCorp&show_icons=true&theme=vue-dark&langs_count=10&hide=scss,vue)
