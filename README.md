@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?username=ElekCorp&show_icons=true&theme=vue-dark&langs_count=20&hide=scss,vue)
 
 <!--
 **ElekCorp/ElekCorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
